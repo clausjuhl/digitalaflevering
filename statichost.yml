@@ -2,4 +2,4 @@ domains:
   # Primary domain
   - www.digitalaflevering.dk
   # Domains that redirect to the primary
-  # - xts.dk
+  - digitalaflevering.dk
